@@ -8,6 +8,7 @@
 <div align="center">
   <img src="./assert/code.gif" />
 </div>
+<br>
 
 ![code-svg](assert/code-contribute.svg)
 
