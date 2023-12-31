@@ -14,6 +14,7 @@
 ![code-svg](assert/code-contribute.svg)
 
 ## 💪 studying
+<div>
   <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
@@ -22,11 +23,13 @@
   <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite">
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-white?style=for-the-badge&logo=vue.js">
+</div>
 
 <br>
 
 ##  🔧 Tools
 
+<div>
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">  
   <img src="https://img.shields.io/badge/visaul studio code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
   <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
@@ -40,15 +43,18 @@
   <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome">
   <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo">
   <img src="https://img.shields.io/badge/centos-white?style=for-the-badge&logo=linux&logoColor=black">
+</div>
 
 <br>
 
 ## 💻 Machine
 
+<div>
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
   <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
   <img src="https://img.shields.io/badge/k50-orange?style=for-the-badge&logo=xiaomi&label=xiaomi&labelColor=white">
   <img src="https://img.shields.io/badge/%E6%8B%AF%E6%95%91%E8%80%85-red?style=for-the-badge&logo=lenovo&logoColor=red&label=lenovo&labelColor=white">
+</div>
 
 <br>
 
