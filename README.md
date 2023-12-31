@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41BFF7&background=EFFFC200&random=false&width=435&separator=%3C&lines=if(you+%3D+'welcome')+printf('Hello');%3Cto+be+continue...)](https://git.io/typing-svg)
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'welcome')+printf('Hello');%3Cto+be+continue..." alt="Typing SVG" /></a>
+</p>
 
-## 统计卡片
-![Github Stats](https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=dark&count_private=true)
+## 统计
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=tokyonight)
 
-## 活动统计图
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=46474b&color=45b7bf&line=b98731&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
