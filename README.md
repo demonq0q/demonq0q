@@ -7,8 +7,8 @@
 
 ##  🔧 Languages and Tools
 <div>
-  <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue">
