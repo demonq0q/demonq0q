@@ -4,12 +4,15 @@
 
 ## 📈统计
 
-<span>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=white" />
-</span>
-<span>
+</div>
+
+<p>&nbsp</p>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</span>
+</div>
 
 <p>&nbsp</p>
 
@@ -22,10 +25,3 @@
 ![code-svg](arrest/code-contribute.svg)
 
 
-<!-- 使用语言统计 -->
-
-<!--
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonq0q&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
- --!>
