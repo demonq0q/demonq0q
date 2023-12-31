@@ -24,11 +24,3 @@
 
 ![code-svg](arrest/code-contribute.svg)
 
-
-<div>
-  <img src="https://img.shields.io/badge/YouTube-red" />
-  
-</div>
-
-
-<img src="https://img.shields.io/badge/with%20a%20logo-red?style=for-the-badge&logo=YouTube" />
