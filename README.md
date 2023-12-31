@@ -4,15 +4,13 @@
 
 ## 📈统计
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=white" />
-</div>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white" />
+</span>
 
-<p>&nbsp</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</div>
+<span>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</span>
 
 <p>&nbsp</p>
 
@@ -23,5 +21,4 @@
 <p>&nbsp</p>
 
 ![code-svg](arrest/code-contribute.svg)
-
 
