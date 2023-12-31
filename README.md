@@ -5,36 +5,41 @@
 </p>
 
 
-##  Languages and 🔧 Tools
-<img src="https://img.shields.io/badge/html-white?logo=html5">
-<img src="https://img.shields.io/badge/html-white?logo=css3&logoColor=blue">
-<img src="https://img.shields.io/badge/markdown-white?logo=markdown&logoColor=black">
-<img src="https://img.shields.io/badge/python-white?logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/C-white?logo=C&logoColor=blue">
-<img src="https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&logoColor=blue">
-<img src="https://img.shields.io/badge/vscode-white?logo=visual%20studio%20code&logoColor=blue">
-<img src="https://img.shields.io/badge/notion-white?logo=notion&logoColor=black">
-<img src="https://img.shields.io/badge/git-white?logo=git&logoColor=orange">
-<img src="https://img.shields.io/badge/node.js-white?logo=node.js&logoColor=green">
-<img src="https://img.shields.io/badge/anaconda-white?logo=anaconda&logoColor=green">
-<img src="https://img.shields.io/badge/vim-white?logo=vim&logoColor=black">
-<img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/vercel-white?logo=vercel&logoColor=black">
-<img src="https://img.shields.io/badge/cloudflare-white?logo=cloudflare&logoColor=orange">
-<img src="https://img.shields.io/badge/Google%20Chrome-white?logo=Google%20Chrome&logoColor=blue">
-<img src="https://img.shields.io/badge/hexo-white?logo=hexo&logoColor=blue">
+##  🔧 Languages and Tools
+<div display="flex">
+  <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
+  <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue">
+  <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
+  <img src="https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
+  <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange">
+  <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=green">
+  <img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green">
+  <img src="https://img.shields.io/badge/vim-white?style=for-the-badge&logo=vim&logoColor=black">
+  <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=black">
+  <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=orange">
+  <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=blue">
+  <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo&logoColor=blue">
+</div>
+<br>
 
-## 💻Machine
- <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+## 💻 Machine
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=Windows&labelColor=white">
+</div>
+<br>
 
 ## 🎮 Gaming
-<img src="https://img.shields.io/badge/steam-black?logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/epic games-black?logo=epicgames&logoColor=white">
-
-
+<div>
+  <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/epic games-black?style=for-the-badge&logo=epicgames&logoColor=white">
+</div>
+<br>
 
 ## 📈 Statistics
 <div>
