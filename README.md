@@ -4,9 +4,12 @@
 
 ## 📈统计
 
-<div align="center">
+<span>
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=white" />
-</div>
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</span>
 
 <p>&nbsp</p>
 
