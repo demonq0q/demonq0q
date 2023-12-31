@@ -5,7 +5,9 @@
 </p>
 <br>
 
-![code](assert/code.gif)
+<div align="center">
+  <img src="./assert/code.gif" />
+</div>
 
 ![code-svg](assert/code-contribute.svg)
 
