@@ -3,7 +3,9 @@
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'welcome')+printf('Hello');%3Cto+be+continue..." alt="Typing SVG" /></a>
 </p>
+<br>
 
+![code-svg](arrest/code-contribute.svg)
 
 ##  🔧 Languages and Tools
 <div>
@@ -59,6 +61,4 @@
 </div>
 
 <p>&nbsp</p>
-
-![code-svg](arrest/code-contribute.svg)
 
