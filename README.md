@@ -6,7 +6,7 @@
 
 
 ##  🔧 Languages and Tools
-<div display="flex">
+<div>
   <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
