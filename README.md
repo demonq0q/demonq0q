@@ -13,18 +13,25 @@
 
 ![code-svg](assert/code-contribute.svg)
 
-##  🔧 Languages and Tools
-
-  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=html5">
+## 💪 studying
+  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
-  <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
-  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue">
   <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
-  <img src="https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
+  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite">
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/vue.js-white?style=for-the-badge&logo=vue.js">
+
+<br>
+
+##  🔧 Tools
+
+  <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">  
+  <img src="https://img.shields.io/badge/visaul studio code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
   <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange">
-  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda">
   <img src="https://img.shields.io/badge/vim-white?style=for-the-badge&logo=vim&logoColor=black">
   <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
@@ -32,23 +39,26 @@
   <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare">
   <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome">
   <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo">
-  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite"
-  >
+  <img src="https://img.shields.io/badge/centos-white?style=for-the-badge&logo=linux&logoColor=black">
 
 <br>
 
 ## 💻 Machine
 
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
-  <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=Windows&labelColor=white">
+  <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
+  <img src="https://img.shields.io/badge/k50-orange?style=for-the-badge&logo=xiaomi&label=xiaomi&labelColor=white">
+  <img src="https://img.shields.io/badge/%E6%8B%AF%E6%95%91%E8%80%85-red?style=for-the-badge&logo=lenovo&logoColor=red&label=lenovo&labelColor=white">
 
 <br>
 
 ## 🎮 Gaming
+
 <div>
   <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/epic games-black?style=for-the-badge&logo=epicgames&logoColor=white">
 </div>
+
 <br>
 
 ## 📈 Statistics
@@ -61,11 +71,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
   </span>
 
-
-<p>&nbsp</p>
-
+<br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
 
 
-<p>&nbsp</p>
+<br>
