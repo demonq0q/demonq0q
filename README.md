@@ -14,7 +14,7 @@
 ![code-svg](assert/code-contribute.svg)
 
 ##  🔧 Languages and Tools
-<div>
+
   <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=orange">
   <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=blue">
   <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo&logoColor=blue">
-</div>
+
 <br>
 
 ## 💻 Machine
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=Windows&labelColor=white">
-</div>
+
+  <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
+  <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=Windows&labelColor=white">
+
 <br>
 
 ## 🎮 Gaming
@@ -50,7 +50,7 @@
 <br>
 
 ## 📈 Statistics
-<div>
+
   <span>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
   </span>
@@ -58,13 +58,13 @@
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
   </span>
-</div>
+
 
 <p>&nbsp</p>
 
-<div>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
-</div>
+
 
 <p>&nbsp</p>
 
