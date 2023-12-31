@@ -5,7 +5,9 @@
 </p>
 <br>
 
-![code-svg](arrest/code-contribute.svg)
+![code](assert/code.gif)
+
+![code-svg](assert/code-contribute.svg)
 
 ##  🔧 Languages and Tools
 <div>
