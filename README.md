@@ -5,12 +5,14 @@
 ## 📈统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&show_icons=true&theme=white" />
 </div>
 
 <p>&nbsp</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=46474b&color=45b7bf&line=b98731&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
+</div>
 
 <p>&nbsp</p>
 
