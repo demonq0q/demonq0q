@@ -15,23 +15,25 @@
 
 ##  🔧 Languages and Tools
 
-  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
-  <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue">
   <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
   <img src="https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
   <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange">
-  <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=green">
-  <img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green">
+  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda">
   <img src="https://img.shields.io/badge/vim-white?style=for-the-badge&logo=vim&logoColor=black">
   <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=black">
-  <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=orange">
-  <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=blue">
-  <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo&logoColor=blue">
+  <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare">
+  <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome">
+  <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo">
+  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite"
+  >
 
 <br>
 
@@ -67,4 +69,3 @@
 
 
 <p>&nbsp</p>
-
