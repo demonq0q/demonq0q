@@ -15,7 +15,7 @@
 ## 💪 Studying and Tools 🔧
 
 <div>
-  <img align='right' src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=250 height=200 />
+  <img align='right' src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=350 height=300 />
 </div>
 
 <div align='center'>
