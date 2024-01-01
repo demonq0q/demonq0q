@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
 
 <br>
+<br>
 
   <img src="https://img.shields.io/badge/visaul studio code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
   <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
