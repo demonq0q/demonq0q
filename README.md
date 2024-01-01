@@ -15,7 +15,10 @@
 ## 💪 Studying and Tools 🔧
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=250 height=200 />
+  <img align='right' src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=250 height=200 />
+</div>
+
+<div align='center'>
   <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -39,7 +42,7 @@
   <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo">
 </div>
 
-<div align="cnenter">
+<div align='cnenter'>
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
 </div>
 
@@ -47,7 +50,7 @@
 
 ## 💻 Machine and Gaming 🎮 
 
-<div>
+<div align='center'>
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
   <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
   <img src="https://img.shields.io/badge/k50-orange?style=for-the-badge&logo=xiaomi&label=xiaomi&labelColor=white">
@@ -64,13 +67,13 @@
 
 ## 📈 Statistics
 
-  <span>
+  <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
-  </span>
+  </div>
 
-  <span>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
-  </span>
+  </div>
 
 <br>
 
