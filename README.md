@@ -20,9 +20,9 @@
 
   <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-lawngreen?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-mediumslateblue?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
