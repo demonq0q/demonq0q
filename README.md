@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=blue">
   <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
-
 </div>
 
 <br>
