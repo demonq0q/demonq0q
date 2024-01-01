@@ -6,11 +6,11 @@
 # Hi here ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'coming')+printf('Hello');%3Cto+be+continue..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'coming')+printf('Hello');%3Cto+be+continue..." />
 
-  <img src="./assets/tap-code.gif" />
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" />
 
-  <img src="./assets/code-contribute.svg">
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
 </div>
 
 
