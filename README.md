@@ -15,7 +15,7 @@
 ## 💪 Studying and Tools 🔧
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=400 height=300 />
+  <img align="right" src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=300 height=250 />
   <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=black">
