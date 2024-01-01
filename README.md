@@ -10,7 +10,7 @@
 
 <br>
 
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" />
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=300/>
 
 <br>
 
