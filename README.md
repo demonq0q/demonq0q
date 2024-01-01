@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black">
   <img src="https://img.shields.io/badge/vim-white?style=for-the-badge&logo=vim&logoColor=black">
-  <img src="https://img.shields.io/badge/Google%20Chrome-white?style=for-the-badge&logo=Google%20Chrome">
+  <img src="https://img.shields.io/badge/%20Chrome-white?style=for-the-badge&logo=Google%20Chrome">
   <img src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=black">
   <img src="https://img.shields.io/badge/cloudflare-white?style=for-the-badge&logo=cloudflare">
   <img src="https://img.shields.io/badge/hexo-white?style=for-the-badge&logo=hexo">
