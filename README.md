@@ -18,31 +18,12 @@
 
   ## 💪 Studying and Tools 🔧
 
-  <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-mediumslateblue?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask&theme=light'>
 
   <br>
   <br>
 
-  <img src="https://img.shields.io/badge/visaul studio code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white">  
-  <img src="https://img.shields.io/badge/anaconda-green?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/%20Chrome-blue?style=for-the-badge&logo=Google%20Chrome&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/hexo-blue?style=for-the-badge&logo=hexo&logoColor=white">
+  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,github,githubactions,git,linux,md,vim,powershell,docker,nodejs,vercel,cloudflare&theme=light'>
 
   <br>
   <br>
@@ -50,13 +31,10 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
 
   <br>
 
@@ -89,6 +67,11 @@
 
   <br>
 
+  ## 👀 Visitor Info
+  <a href="https://u8views.com/github/demonq0q"><img src="https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg"></a>
 
+  <br>
+
+  
 
 </div>
