@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
+</div>
+
 # Hi here ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
 <div align='center'>
@@ -6,11 +10,7 @@
 
 <br>
 
-  <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
-
-<br>
-
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=300 height=200/>
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
 
 <br>
 
