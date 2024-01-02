@@ -19,7 +19,6 @@
   ## 💪 Studying and Tools 🔧
 
   <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask'>
-  <img height="42" width="42" src="https://cdn.simpleicons.org/simpleicons/orange/black" />
 
   <br>
   <br>
