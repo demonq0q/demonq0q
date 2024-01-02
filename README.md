@@ -24,6 +24,7 @@
   <br>
 
   <img src='https://skillicons.dev/icons?i=vscode,visualstudio,github,githubactions,git,linux,md,vim,powershell,docker,nodejs,vercel,cloudflare'>
+  <img height=50 width=50 src="https://cdn.simpleicons.org/notion">
 
   <br>
   <br>
