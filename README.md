@@ -2,10 +2,6 @@
 
   <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
 
-  <h3>
-    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"> !
-  </h3>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'coming')+printf('Hello');%3Cto+be+continue..." />
@@ -14,11 +10,11 @@
 
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <br>
 
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <br>
 
