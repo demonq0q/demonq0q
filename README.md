@@ -22,12 +22,12 @@
     💪 Studying and Tools 🔧
   </h1>
 
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask&theme=light'>
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask'>
 
   <br>
   <br>
 
-  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,github,githubactions,git,linux,md,vim,powershell,docker,nodejs,vercel,cloudflare&theme=light'>
+  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,github,githubactions,git,linux,md,vim,powershell,docker,nodejs,vercel,cloudflare'>
 
   <br>
   <br>
