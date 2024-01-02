@@ -62,6 +62,14 @@
   <br>
 
   <h1>
+    🎵 Music
+  </h1>
+  
+  <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=5'>
+
+  <br>
+
+  <h1>
     📈 Statistics
   </h1>
 
@@ -74,6 +82,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
 
   <br>
+
 
   <h1>
     👀 Visitor Info
