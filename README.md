@@ -23,9 +23,9 @@
 
   <br>
 
-  <h2>
+  <h1>
     💪 Studying and Tools 🔧
-  </h2>
+  </h1>
 
   <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask'>
 
@@ -47,9 +47,9 @@
 
   <br>
 
-  <h2>
+  <h1>
     💻 Machine and Gaming 🎮 
-  </h2>
+  </h1>
 
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
   <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
@@ -66,9 +66,9 @@
 
   <br>
 
-  <h2>
+  <h1>
     📈 Statistics
-  </h2>
+  </h1>
 
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
   
@@ -80,9 +80,9 @@
 
   <br>
 
-  <h2>
+  <h1>
     👀 Visitor Info
-  </h2>
+  </h1>
 
   <a href="https://u8views.com/github/demonq0q"><img src="https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg"></a>
 
