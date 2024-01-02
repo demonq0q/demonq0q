@@ -8,7 +8,9 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
+  <img align='left' src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/laugh.gif?raw=true" width=310 height=240/>
+
+  <img align='right'  src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
 
   <br>
 
