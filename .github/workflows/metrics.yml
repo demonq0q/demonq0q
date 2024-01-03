@@ -1,0 +1,34 @@
+# 此开源项目地址 https://github.com/lowlighter/metrics
+
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+  workflow_dispatch:
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+         
+      # 🌟 Recently starred repositories
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 10
+          
+      # 📆 Commit calendar
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
