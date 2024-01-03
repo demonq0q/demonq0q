@@ -198,7 +198,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stackoverflow.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 1
@@ -210,7 +210,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/wakatime.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
