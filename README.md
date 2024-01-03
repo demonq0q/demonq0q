@@ -133,18 +133,26 @@
   <!--second table 第二个表格-->
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/base.svg"></td>
-      <td rowspan="2"><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stars.svg"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/base.svg" /></td>
+      <td rowspan="2"><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stars.svg" /></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/activity.svg"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/activity.svg" /></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/habits.charts.svg" alt="habits.charts" /></td>    
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stackoverflow.svg" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/habits.charts.svg" /></td>    
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/isocalendar.fullyear.svg" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/calendar.full.svg" /></td>
     </tr>
   </table>
+
+  <!--动态分割线-->
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
+
+  <!--Repobeats analytics image 分析图像-->
+  <div align='center'>
+    <img src="https://repobeats.axiom.co/api/embed/020619bbebb844ee753b14b8ec26faebd07304a6.svg">
+  </div>
