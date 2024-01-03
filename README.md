@@ -1,25 +1,34 @@
 <div align='center'>
 
+  <!--计算访问次数-->
   <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--动态分割线-->
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/hr.gif">
 
+  <!--动态打字效果-->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&repeat=true%C2%A0%E7%9C%9F&random=true%C2%A0%E7%9C%9F&width=435&separator=%3C&lines=if(you+%3D%3D+'coming')+printf('Hello');%3CTo+be+continue...">
 
   <br>
-  
+
+  <!--猫猫虫打字gif图-->
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
 
   <br>
   <br>
-  
+
+  <!--记录访问人次（详细版）-->
   <img src='https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg'>
 
   <br>
-  
+
+  <!--贪吃蛇-->
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--动态分割线-->
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/hr.gif">
+
+</div>
 
   <br>
 
@@ -69,7 +78,7 @@
   <h1>
     🎵 Music
   </h1>
-  
+
   <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=5'>
 
   <br>
@@ -79,13 +88,12 @@
   </h1>
 
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
- 
+
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
 
   <br>
 
-</div>
