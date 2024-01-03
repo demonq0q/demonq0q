@@ -11,7 +11,12 @@
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
 
   <br>
+  <br>
+  
+  <img src='https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg'>
 
+  <br>
+  
   <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -82,18 +87,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
 
   <br>
-
-
-  <h1>
-    👀 Visitor Info
-  </h1>
-
-  <a href="https://u8views.com/github/demonq0q"><img src="https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg"></a>
-
-  <br>
-
-
-
-</div>
-
 
