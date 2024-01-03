@@ -4,7 +4,7 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF5FC804&random=false&width=435&separator=%3C&lines=if(you+%3D+'coming')+printf('Hello');%3Cto+be+continue..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=2582AB&center=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=320&separator=%3C&lines=if+(you+%3D%3D+'coming')+printf('Hello');%3CTo+be+continue..." />
 
   <br>
   
