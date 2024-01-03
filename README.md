@@ -4,10 +4,10 @@
   <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
 
   <!--动态分割线-->
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/hr.gif">
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
   <!--动态打字效果-->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&repeat=true%C2%A0%E7%9C%9F&random=true%C2%A0%E7%9C%9F&width=435&separator=%3C&lines=if(you+%3D%3D+'coming')+printf('Hello');%3CTo+be+continue...">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&r%C2%A0%E7%9C%9F%C2%A0%E5%81%87&width=435&separator=%3C&lines=if(you+%3D%3D+'coming')+printf('Hello');%3CTo+be+continue...">
 
   <br>
 
@@ -22,19 +22,29 @@
 
   <br>
 
+
   <!--贪吃蛇-->
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg?raw=true">
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/code-contribute.svg">
+
+  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/github-contribution-grid-snake/github-contribution-grid-snake.svg">
 
   <!--动态分割线-->
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/hr.gif">
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
 </div>
 
-  <br>
+  <h2>🧐 About</h2>
 
-  <h1>
+  <!--first table 第一个表格-->
+  <table>
+
+  <tr><td>
+
+  <div align='center'>
+
+  <h3>
     💪 Studying and Tools 🔧
-  </h1>
+  </h3>
 
   <img src='https://skillicons.dev/icons?i=html,css,javascript,vue,vite,c,cpp,py,mysql,flask'>
 
@@ -54,11 +64,17 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
 
-  <br>
+  </div>
 
-  <h1>
+  </td></tr>
+
+  <tr><td>
+
+  <div align='center'>
+
+  <h3>
     💻 Machine and Gaming 🎮 
-  </h1>
+  </h3>
 
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
   <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
@@ -72,28 +88,73 @@
   <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/epic games-black?style=for-the-badge&logo=epicgames&logoColor=white">
 
+  </div>
 
-  <br>
+  </td></tr>
 
-  <h1>
+  <tr><td>
+
+  <div align='center'>
+
+  <h3>
     🎵 Music
-  </h1>
+  </h3>
 
   <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=5'>
 
-  <br>
+  </div>
 
-  <h1>
+  </td></tr>
+
+  <tr><td>
+
+  <div align='center'>
+
+  <h2>
     📈 Statistics
-  </h1>
+  </h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
 
-  <br>
+  </div>
+
+  </td></tr>
+
+  <tr><td>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonq0q&bg_color=ffffff&color=000000&line=00eeff&point=ffcf24&area=true&hide_border=true" />
 
-  <br>
+  </td></tr>
+
+  </table>
+
+  <!--动态分割线-->
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
+
+  <!--second table 第二个表格-->
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/base.svg"></td>
+      <td rowspan="2"><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stars.svg"></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/activity.svg"></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/habits.charts.svg" alt="habits.charts" /></td>    
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    </tr>
+  </table>
+
+
+<div>
+  
+</div>
+
 
