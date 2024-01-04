@@ -12,7 +12,7 @@
   <br>
 
   <!--猫猫虫打字gif图-->
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/assets/tap-code.gif?raw=true" width=310 height=240/>
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/tap-code.gif" width=310 height=240/>
 
   <br>
   <br>
