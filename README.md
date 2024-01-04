@@ -98,10 +98,7 @@
   </h3>
 
   <img src='https://spotify-github-profile.vercel.app/api/view?uid=31aayoeuwziq5qdyexrafvhrhjau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true'>
-
-  <br>
-
-  <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=5'>
+  <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=7'>
 
   </div>
 
