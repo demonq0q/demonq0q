@@ -164,5 +164,5 @@
 
   <!--动态加载-->
   <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif1">
+    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading1.gif">
   </div>
