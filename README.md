@@ -132,7 +132,20 @@
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
-  <!-- <a href='https://wakatime.com/dashboard'> -->
+  <table>
+
+  <tr><td>
+
+  <!--START_SECTION:waka-->
+
+  <!--END_SECTION:waka-->
+    
+  </td></tr>
+
+  </table>
+
+  <!--动态分割线-->
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
   <!--second table 第二个表格-->
   <table>
