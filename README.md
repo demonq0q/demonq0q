@@ -159,10 +159,7 @@
 
   <!--动态加载-->
   <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" width=150 height=150>
+    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading_files.gif" width=70% />
   </div>
 
-  <!--动态加载-->
-  <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading1.gif">
-  </div>
+  
