@@ -89,7 +89,7 @@
 
   </td></tr>
 
-  <tr><td>
+  <!-- <tr><td>
 
   <div align='center'>
 
@@ -102,7 +102,7 @@
   
   </div>
 
-  </td></tr>
+  </td></tr> -->
 
   <tr><td>
 
@@ -129,6 +129,8 @@
 
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
+
+  <!-- <a href='https://wakatime.com/dashboard'> -->
 
   <!--second table 第二个表格-->
   <table>
