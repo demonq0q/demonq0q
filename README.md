@@ -138,15 +138,28 @@
 
   <!--START_SECTION:waka-->
   **I'm an Early 🐤** 
-
+  ```text
+  
+  
+  ```
 
   📅 **I'm Most Productive on Friday**
-
+  ```text
+  
+  
+  ```
 
   📊 **This Week I Spent My Time On** 
-
+  ```text
+  
+  
+  ```
 
   💻 Operating System:
+  ```text
+  
+  
+  ```
 
   <!--END_SECTION:waka-->
     
