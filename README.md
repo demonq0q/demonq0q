@@ -158,4 +158,6 @@
   </div>
 
   <!--动态加载-->
-  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif">
+  <div align='center'>
+    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" height=100 width=100>
+  </div>
