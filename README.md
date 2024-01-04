@@ -137,6 +137,17 @@
   <tr><td>
 
   <!--START_SECTION:waka-->
+  **I'm an Early 🐤** 
+
+
+  📅 **I'm Most Productive on Friday**
+
+
+  📊 **This Week I Spent My Time On** 
+
+
+  💻 Operating System:
+
   <!--END_SECTION:waka-->
     
   </td></tr>
