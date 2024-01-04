@@ -97,6 +97,10 @@
     🎵 Music
   </h3>
 
+  <img src='https://spotify-github-profile.vercel.app/api/view?uid=31aayoeuwziq5qdyexrafvhrhjau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true'>
+
+  <br>
+
   <img src='https://spotify-recently-played-readme.vercel.app/api?user=31aayoeuwziq5qdyexrafvhrhjau&count=5'>
 
   </div>
@@ -112,7 +116,6 @@
   </h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
 
   </div>
