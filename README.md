@@ -135,7 +135,6 @@
   <!--second table 第二个表格-->
   <table>
   <tr><td>
-  <div align='center'>
 
   <!--START_SECTION:waka-->
   **I'm an Early 🐤** 
@@ -179,8 +178,7 @@
 
   Last Updated on 05/01/2024 01:02:55 UTC
   <!--END_SECTION:waka-->
-
-  </div>
+  
   </td></tr>
   </table>
 
