@@ -129,9 +129,11 @@
 
   <tr><td>
 
+  <div align='center'>
   <h3>
     📊 WakaTime
   </h3>
+  </div>
 
   <!--START_SECTION:waka-->
   **I'm an Early 🐤** 
