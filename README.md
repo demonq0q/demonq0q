@@ -139,26 +139,21 @@
   <!--START_SECTION:waka-->
   **I'm an Early 🐤** 
   ```text
-  
-  
+  🌞 Morning 
+  🌆 Daytime
+  🌃 Evening
+  🌙 Night 
   ```
 
   📅 **I'm Most Productive on Friday**
   ```text
-  
-  
-  ```
-
-  📊 **This Week I Spent My Time On** 
-  ```text
-  
-  
-  ```
-
-  💻 Operating System:
-  ```text
-  
-  
+  Monday                   
+  Tuesday                  
+  Wednesday          
+  Thursday                
+  Friday                  
+  Saturday              
+  Sunday   
   ```
 
   <!--END_SECTION:waka-->
