@@ -23,7 +23,7 @@
   <br>
 
   <!--贪吃蛇-->
-  <img src="https://raw.githubusercontent.com/demonq0q/demonq0q/master/profile-snake-contrib/github-contribution-grid-snake.svg">
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/profile-snake-contrib/github-contribution-grid-snake.svg">
 
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
