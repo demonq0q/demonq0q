@@ -213,7 +213,7 @@ Windows                  25 mins             ███████████�
 
   <!--动态加载-->
   <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" width=500 height=265/>
+    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" width=100 height=100/>
   </div>
 
   
