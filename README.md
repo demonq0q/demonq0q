@@ -136,7 +136,7 @@
   <table>
   <tr><td>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
