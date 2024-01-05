@@ -137,25 +137,6 @@
   <tr><td>
 
   <!--START_SECTION:waka-->
-  **I'm an Early 🐤** 
-  ```text
-  🌞 Morning 
-  🌆 Daytime
-  🌃 Evening
-  🌙 Night 
-  ```
-
-  📅 **I'm Most Productive on Friday**
-  ```text
-  Monday                   
-  Tuesday                  
-  Wednesday          
-  Thursday                
-  Friday                  
-  Saturday              
-  Sunday   
-  ```
-
   <!--END_SECTION:waka-->
     
   </td></tr>
