@@ -115,7 +115,7 @@
   </h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=demonq0q&hide=issues&show_icons=true&theme=white&layout=compact" height=160 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height=160 />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonq0q&layout=compact" height=160 /> -->
 
   </div>
 
@@ -215,5 +215,3 @@ Windows                  25 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
   <div align='center'>
     <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" width=100 height=100/>
   </div>
-
-  
