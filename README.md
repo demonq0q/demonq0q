@@ -43,7 +43,7 @@
     💪 Studying and Tools 🔧
   </h3>
 
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,vue,vite,react,c,cpp,py,mysql,flask'>
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,mysql'>
 
   <br>
   <br>
@@ -57,11 +57,9 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   
 
   </div>
