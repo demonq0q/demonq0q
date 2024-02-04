@@ -74,9 +74,6 @@
 
   <img src="https://img.shields.io/badge/win10-blue?style=for-the-badge&logo=windows&logoColor=blue&label=Windows&labelColor=white">
   <img src="https://img.shields.io/badge/rtx3050-green?style=for-the-badge&logo=NVIDIA&logoColor=green&label=NVIDIA&labelColor=white">
-  <img src='https://img.shields.io/badge/r5-black?style=for-the-badge&logo=amd&logoColor=black&label=amd&labelColor=white'>
-  <img src="https://img.shields.io/badge/k50-orange?style=for-the-badge&logo=xiaomi&label=xiaomi&labelColor=white">
-  <img src="https://img.shields.io/badge/r7000-red?style=for-the-badge&logo=lenovo&logoColor=red&label=lenovo&labelColor=white">
 
   <br>
   <br>
