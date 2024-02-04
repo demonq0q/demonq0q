@@ -208,8 +208,3 @@ Windows                  4 hrs               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
   <div align='center'>
     <img src="https://repobeats.axiom.co/api/embed/020619bbebb844ee753b14b8ec26faebd07304a6.svg">
   </div>
-
-  <!--动态加载-->
-  <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/loading.gif" width=100 height=100/>
-  </div>
