@@ -25,26 +25,23 @@
   <!--贪吃蛇-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/profile-snake-contrib/github-contribution-grid-snake.svg">
 
-  <!--动态分割线-->
-  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
+  <br>
 
   <div align='center'>
 
-  <h3>
+  <h2>
     💪 Studying and Tools 🔧
-  </h3>
+  </h2>
 
   <br>
-  <br>
+
 
   <img src='https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,vscode,github,git,linux,md,nodejs'>
 
   </div>
 
-  <br>
-  <br>
+  <!--动态分割线-->
+  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
-  <!--Repobeats analytics image 分析图像-->
-  <div align='center'>
-    <img src="https://repobeats.axiom.co/api/embed/020619bbebb844ee753b14b8ec26faebd07304a6.svg">
-  </div>
+
+
