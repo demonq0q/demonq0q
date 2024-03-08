@@ -36,7 +36,7 @@
   <br>
 
 
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,vscode,github,git,linux,md,nodejs'>
+  <img src='https://skillicons.dev/icons?i=c,cpp,vscode,obsidian,github,linux,'>
 
   </div>
 
