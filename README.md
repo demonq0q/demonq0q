@@ -15,17 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/tap-code.gif" width=310 height=240/>
 
   <br>
-  <br>
-
-  <!--记录访问人次（详细版）-->
-  <img src='https://u8views.com/api/v1/github/profiles/110705071/views/day-week-month-total-count.svg'>
-
-  <br>
-
-  <!--贪吃蛇-->
-  <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/profile-snake-contrib/github-contribution-grid-snake.svg">
-
-  <br>
 
   <div align='center'>
 
@@ -35,8 +24,11 @@
 
   <br>
 
+  <img src='https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,mysql,md'>
 
-  <img src='https://skillicons.dev/icons?i=c,cpp,vscode,obsidian,github,linux,'>
+  <br>
+
+  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,idea,anaconda,qt,powershell,linux,ubuntu'>
 
   </div>
 
